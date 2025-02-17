@@ -22,7 +22,6 @@ import logging
 import math
 import re
 from collections.abc import Mapping
-from functools import partial
 from importlib import import_module
 from types import ModuleType
 from typing import Any, Callable, Dict, List, Optional, Tuple
